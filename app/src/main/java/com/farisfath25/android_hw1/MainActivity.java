@@ -24,6 +24,11 @@ import java.util.Calendar;
 Faris Fathurrahman - 14050141015
 HW#1
 CENG427 - Mobile Programming Devices
+
+Mostly this program is done possibly by the help from the following resources:
+- https://guides.codepath.com/android/Basic-Todo-App-Tutorial
+- https://www.sitepoint.com/starting-android-development-creating-todo-app/
+- https://github.com/fabio001/Week5
  */
 
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener, AdapterView.OnItemLongClickListener
